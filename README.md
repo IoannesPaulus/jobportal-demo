@@ -15,7 +15,8 @@ Each profile has a balance property.
 
 ### Contract
 A contract between a client and a contractor.
-Contracts have 3 statuses, `new`, `in_progress`, `terminated`. contracts are considered active only when in status `in_progress`
+Contracts have 3 statuses, `new`, `in_progress`, `terminated`. Contracts are considered active only when in status `in_progress`.
+
 Contracts group jobs within them.
 
 ### Job
