@@ -20,7 +20,7 @@ Contracts have 3 statuses, `new`, `in_progress`, `terminated`. Contracts are con
 Contracts group jobs within them.
 
 ### Job
-contractor get paid for jobs by clients under a certain contract.
+Contractors get paid for jobs by clients under a certain contract.
 
 ## Getting Set Up
 
